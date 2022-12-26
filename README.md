@@ -1,4 +1,4 @@
- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm  Revanth Yarabatla!
+ ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm  Revanth Yarabarla!
   
  <img align="right"  src="https://komarev.com/ghpvc/?username=revanthyarabarla&label=Visitors%20&color=0e75b6&style=flat" alt="revanthyarabarla" /> </p>
      
